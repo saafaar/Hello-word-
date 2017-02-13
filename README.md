@@ -1,2 +1,2 @@
 # Hello-word-
-My first hgthub thing
+My first github thing
